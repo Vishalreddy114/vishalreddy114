@@ -1,16 +1,30 @@
-### Hi there 👋
+## About Me:
 
-<!--
-**Vishalreddy114/vishalreddy114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  My name is Vishal Reddy Vennavaram. Currently I am a graduate student at Northwest Missouri State University. I completed my bachelor's from Jawaharlal Nehru Technological University in 2019. I am a Graduate Assistant for the course Project Management in Business and Technology at Northwest in the School of Computer Science and Information Systems.
+I like playing badminton, reading books, watching movies and browsing internet.
 
-Here are some ideas to get you started:
+## Collaboration:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- GitHub: Profile / Repos
+
+## Languages:
+
+- GitHub Markdown
+
+## Technical Skills:
+ 
+ - Languages: C, Java, Python
+ - Databases: SQL, MSQL, MongoDB, FireBase
+ - Version Control: GitHub
+ - Tools: Android Studio, NetBeans, Eclipse
+ 
+ ## Academic Projects:
+ 
+ - Design of phased array antenna for beamforming applications(Undergraduation)
+ - Attendace Manager using Android Studio
+ 
+ ## LinkedIn Profile:
+ 
+ [LinkedIn](www.linkedin.com/in/vishalreddyvennavaram)
+ 
+ 
