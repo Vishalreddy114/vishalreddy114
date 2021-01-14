@@ -1,15 +1,20 @@
 ## About Me:
 
-  My name is Vishal Reddy Vennavaram. Currently I am a graduate student at Northwest Missouri State University. I completed my bachelor's from Jawaharlal Nehru Technological University in 2019. I am a Graduate Assistant for the course Project Management in Business and Technology at Northwest in the School of Computer Science and Information Systems.
-I like playing badminton, reading books, watching movies and browsing internet.
+  My name is Vishal Reddy Vennavaram. Currently I am a graduate student at Northwest Missouri State University. I completed my bachelor's from Jawaharlal Nehru Technological University in 2019. I am a Graduate Assistant for the course Project Management in Business and Technology at Northwest in the School of Computer Science and Information Systems.I like playing badminton, reading books, watching movies and browsing internet.
 
 ## Collaboration:
 
+- Git: Create / Clone / Push
 - GitHub: Profile / Repos
 
 ## Languages:
 
 - GitHub Markdown
+- JavaScript
+
+## Publishing:
+
+- Heroku
 
 ## Technical Skills:
  
