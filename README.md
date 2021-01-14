@@ -14,7 +14,7 @@ I like playing badminton, reading books, watching movies and browsing internet.
 ## Technical Skills:
  
  - Languages: C, Java, Python
- - Databases: SQL, MSQL, MongoDB, FireBase
+ - Databases: SQL, MySQL, MongoDB, FireBase
  - Version Control: GitHub
  - Tools: Android Studio, NetBeans, Eclipse
  
